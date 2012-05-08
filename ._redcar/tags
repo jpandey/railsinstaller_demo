@@ -1,0 +1,13 @@
+1336458644
+Application	C:/Sites/railsinstaller_demo/config/application.rb	  class Application 
+ApplicationController	C:/Sites/railsinstaller_demo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/railsinstaller_demo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/railsinstaller_demo/test/performance/browsing_test.rb	class BrowsingTest 
+RailsinstallerDemo	C:/Sites/railsinstaller_demo/config/application.rb	module RailsinstallerDemo
+TestCase	C:/Sites/railsinstaller_demo/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomController	C:/Sites/railsinstaller_demo/app/controllers/welcom_controller.rb	class WelcomController 
+WelcomControllerTest	C:/Sites/railsinstaller_demo/test/functional/welcom_controller_test.rb	class WelcomControllerTest 
+WelcomHelper	C:/Sites/railsinstaller_demo/app/helpers/welcom_helper.rb	module WelcomHelper
+WelcomHelperTest	C:/Sites/railsinstaller_demo/test/unit/helpers/welcom_helper_test.rb	class WelcomHelperTest 
+index	C:/Sites/railsinstaller_demo/app/controllers/welcom_controller.rb	  def index
+test_homepage	C:/Sites/railsinstaller_demo/test/performance/browsing_test.rb	  def test_homepage
